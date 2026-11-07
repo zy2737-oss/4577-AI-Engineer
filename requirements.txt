@@ -1,0 +1,3 @@
+# Minimal Week 1 dependencies; this is a team setup, not an official course file.
+google-genai
+python-dotenv

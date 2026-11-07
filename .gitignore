@@ -1,0 +1,11 @@
+.venv/
+.tools/
+.gcloud/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.DS_Store
+application_default_credentials.json
+*service-account*.json
